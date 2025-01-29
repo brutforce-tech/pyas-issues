@@ -1,7 +1,7 @@
 ---
-name: Bug report
+name: Bug Report
 about: Report a bug you've found while using Pyas.
-title: ''
+title: "[BUG]"
 labels: ''
 assignees: ''
 
